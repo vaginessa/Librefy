@@ -22,7 +22,7 @@
     "@vitejs/plugin-vue": "^2.3.4",
     "eslint": "8",
     "eslint-plugin-vue": "9",
-    "vite": "^2.5.4"
+    "vite": "^2.9.16"
   },
   "eslintConfig": {
     "root": true,
